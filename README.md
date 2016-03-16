@@ -15,7 +15,7 @@ like data mining, information processing or historical archival.
 ###2.1 Installation
 official tutorial:http://doc.scrapy.org/en/latest/intro/install.html
 ###2.2 Troubleshoot
-with windows platform some errors may trouble you: [Click Here!](http://app.yinxiang.com/l/ACuJu576eutHg5_rRl_Sr-iX5r7W8afR9CY/)
+with windows platform some errors may trouble you: [Click Here!](http://blog.csdn.net/laishaofa/article/details/50763390)
 
 ##3.File Tree
 ![](http://i.imgur.com/YjPwNG4.png)
